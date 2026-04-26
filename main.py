@@ -20,3 +20,4 @@ name, gwa = find_highest_gwa(filename)
 
 print("Student with highest GWA:")
 print(name, "-", gwa)
+
